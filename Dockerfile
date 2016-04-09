@@ -7,4 +7,4 @@ RUN pacman -S --noconfirm vim
 ADD https://raw.githubusercontent.com/finalduty/configs/master/.vimrc /root/
 ADD https://raw.githubusercontent.com/finalduty/configs/master/.bashrc /root/
 
-ENTRYPOINT /bin/bash -c
+CMD /bin/bash -c
