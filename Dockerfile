@@ -1,4 +1,4 @@
-FROM finalduty/archlinux:daily
+FROM finalduty/archlinux
 MAINTAINER FinalDuty <root@finalduty.me>
 CMD /bin/bash
 
