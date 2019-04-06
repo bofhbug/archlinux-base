@@ -1,4 +1,4 @@
-FROM archlinux/base:last
+FROM archlinux/base
 LABEL maintainer="bofhbug"
 LABEL Description="This image is used to use the poppler on archlinux" Version="0.5"
 #CMD /bin/bash
