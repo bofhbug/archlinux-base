@@ -1,5 +1,5 @@
 FROM archlinux/base
-MAINTAINER bofhbug
+LABEL maintainer="bofhbug"
 #CMD /bin/bash
 #TAG latest
 #ADD https://raw.githubusercontent.com/finalduty/configs/master/.vimrc /root/
