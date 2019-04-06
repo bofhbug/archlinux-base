@@ -2,7 +2,6 @@ FROM archlinux/base
 MAINTAINER bofhbug
 #CMD /bin/bash
 #TAG latest
-
 #ADD https://raw.githubusercontent.com/finalduty/configs/master/.vimrc /root/
 #ADD https://raw.githubusercontent.com/finalduty/configs/master/.bashrc /root/
 
